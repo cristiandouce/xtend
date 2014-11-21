@@ -1,0 +1,23 @@
+{
+  "name": "xtend",
+  "version": "4.0.0",
+  "description": "extend like a boss",
+  "keywords": [
+    "extend",
+    "merge",
+    "options",
+    "opts",
+    "object",
+    "array"
+  ],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/xtend.git",
+  "main": "immutable.js",
+  "dependencies": {},
+  "homepage": "https://github.com/Raynos/xtend",
+  "licenses": "MIT",
+  "scripts": [
+    "immutable.js",
+    "mutable.js"
+  ]
+}
